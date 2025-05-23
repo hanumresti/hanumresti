@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/378b0280-048c-4866-91a5-c519ef658ac3)<p align="center" style="margin-bottom: 1px;">
+<p align="center" style="margin-bottom: 1px;">
   <img src="BG hanum1.png" alt="BG hanum1.png" width="100%" style="max-height: 100px; object-fit: cover;"/>
 <p
 
