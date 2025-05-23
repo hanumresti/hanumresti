@@ -25,7 +25,7 @@ I am an undergraduate student in the Silviculture Study Program, Department of S
 ### 📚 Publication
 
 - **HR Saputri**, R Asy'ari,AM Abd Malik, A Dzulfigar, KP Marfi, F Raihan, MH Fadhil, SZ Adni,  IN Rahmdhanti, ES Nugraha, EI Putra, I Istomo, NP Zamani, R Pramulya, Y Setiawan. 2024. Hotspot Distribution Assessment on The Peat Hydrological Unit (PHU) in Riau Province. *SSRS Journal B: Spatial Research*. 2: 44-56.
-- SZ Adni, G Fatimah, **HR Saputri**, K Rahmadhani, AAP Hartoyo. 2024. The potential of silvofishery as a blue carbon reservoir and source of community income in Sawah Luhur Village, Banten in climate change mitigation. *Tropica Silva Journal: Faculty of Agriculture, Jambi University*. (8) 1: 01-13.
+- SZ Adni, G Fatimah, **HR Saputri**, K Rahmadhani, AAP Hartoyo. 2024. The potential of silvofishery as a blue carbon reservoir and source of community income in Sawah Luhur Village, Banten in climate change mitigation. *Tropica Silva Journal: Faculty of Agriculture, Jambi University*. (8) 1: 01-13. [https://doi.org/10.22437/jurnalsilvatropika.v8i1.33017](https://doi.org/10.22437/jurnalsilvatropika.v8i1.33017)
 - R Asy'ari, AD Rahmawati, A Dzulfigar, KP Marfi, A Ulfa, RF Puspitasari, **HR Saputri**, MF Aslam, NA Jouhary, AM Abd Malik, F Raihan, MH Fadhil, MA Duta Hidayat, IA Ananda, AC Nurrahmah, NP Zamani, R Pramulya, Y Setiawan. 2023. Mangrove Damage vs Succession: An Opinion on the Journey of Mangrove Investigation Studies in Subang Regency Coast Area. *SSRS Journal A: Agro-Environmental Research*. (1) 1: 01-06.
 
 
