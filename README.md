@@ -24,6 +24,7 @@ I am an undergraduate student in the Silviculture Study Program, Department of S
 
 ### 📚 Publication
 
+- EVK Dewanti, S Trirana, **HR Saputri**, K Rahmadhani, APP Hartoy. 2024. Vegetation Diversity And Carbon Storage In Agroforestry Systems In The Buffer Zone OfWay Kambas National Park. *Journal of Tropical Silviculture*. (15) 3: 216-221. [https://doi.org/10.29244/j-siltrop.15.03.216-221] (https://doi.org/10.29244/j-siltrop.15.03.216-221)
 - **HR Saputri**, R Asy'ari, AM Abd Malik, A Dzulfigar, KP Marfi, F Raihan, MH Fadhil, SZ Adni,  IN Rahmdhanti, ES Nugraha, EI Putra, I Istomo, NP Zamani, R Pramulya, Y Setiawan. 2024. Hotspot Distribution Assessment on The Peat Hydrological Unit (PHU) in Riau Province. *SSRS Journal B: Spatial Research*. 2: 44-56.
 - **HR Saputri**, IA Ananda, IN Rahmadhanti, R Asy'ari, MH Fadhil, SZ Adni, F Raihan, EI Putra, Y Setiawan, R Pramulya, NP Zamani. 2024. Data Indo InaPeat: An Environmental Monitoring Platform on Peatlands Area and PHU (Peat Hydrological Units) using Earth Engine Apps. *SSRS Journal A: Agro-Environmental Research*.  2: 20-27.
 - SZ Adni, G Fatimah, **HR Saputri**, K Rahmadhani, AAP Hartoyo. 2024. The potential of silvofishery as a blue carbon reservoir and source of community income in Sawah Luhur Village, Banten in climate change mitigation. *Tropica Silva Journal: Faculty of Agriculture, Jambi University*. (8) 1: 01-13. [https://doi.org/10.22437/jurnalsilvatropika.v8i1.33017](https://doi.org/10.22437/jurnalsilvatropika.v8i1.33017)
