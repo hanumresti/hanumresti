@@ -7,11 +7,11 @@
 
 
 # *Researcher | Analyst*
-Forest Fire Modelling and Protection, Carbon and Peatland, Remote Sensing, Geospatial Intelligence  
+Forest Fire Modelling and Protection, Forest Ecology, Carbon and Peatland, Remote Sensing, Geospatial Intelligence  
 
 
-# Assalammualaikum and Hi there 👋:
-I am an undergraduate student in the Silviculture Study Program, Departmet of Silviculture, Faculty of Forest and Environmental, IPB University. And senior researcher at The IPB SSRS Association (Student Researcher Organization at IPB University).
+# Assalammualaikum Everyone👋:
+I am an undergraduate student in the Silviculture Study Program, Department of Silviculture, Faculty of Forestry and Environment, IPB University. And senior researcher at The IPB SSRS Association (Student Researcher Organization at IPB University).
 
 
 ### 💻 Interested and Skills in Progress
