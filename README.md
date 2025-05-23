@@ -6,7 +6,7 @@
 
 
 
-# *Researcher | Analyst*
+# *Researcher*
 Forest Fire Modelling and Protection, Forest Ecology, Carbon and Peatland, Remote Sensing, Geospatial Intelligence  
 
 
@@ -14,7 +14,7 @@ Forest Fire Modelling and Protection, Forest Ecology, Carbon and Peatland, Remot
 I am an undergraduate student in the Silviculture Study Program, Department of Silviculture, Faculty of Forestry and Environment, IPB University. And senior researcher at The IPB SSRS Association (Student Researcher Organization at IPB University).
 
 
-### 💻 Interested and Skills in Progress
+### 💻 Task and Progress
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=r&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=rstudioide&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=FFD700)
